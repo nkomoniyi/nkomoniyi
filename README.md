@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nkomoniyi
+- 👋 Hi, I’m @omoniyi
 - 👀 I’m interested in Data analysis
 - 🌱 I’m currently learning python and postgresql
 - 💞️ I’m looking to collaborate on project
